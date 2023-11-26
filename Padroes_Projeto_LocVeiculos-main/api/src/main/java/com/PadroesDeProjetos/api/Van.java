@@ -1,6 +1,10 @@
 package com.PadroesDeProjetos.api;
 
 public class Van implements Veiculo{
+    @Override
+    public ModelosDeCarro getModelo() {
+        return null;
+    }
 
     private static final double PRECO_DIARIA = 300.00;
 
