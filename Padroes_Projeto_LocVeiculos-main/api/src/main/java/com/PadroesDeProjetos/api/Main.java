@@ -56,19 +56,12 @@ public class Main {
         System.out.println("Carro, Van, Moto, Caminhonete");
         String tipoVeiculo = scanner.nextLine();
 
-        System.out.println("\nQual modelo você deseja ? ");
-        System.out.println("\n------------------MODELOS-------------------------");
-        System.out.println("1. " + ModelosDeCarro.CORALA_SEDAN);
-        System.out.println("2. " + ModelosDeCarro.FERRARI_SPORT);
-        System.out.println("3. " + ModelosDeCarro.HB20_SEDAN);
-        System.out.println("4. " + ModelosDeCarro.MOBI_HATCH);
-        System.out.println("5. " + ModelosDeCarro.ONIX_SEDAN);
-        System.out.println("6. " + ModelosDeCarro.SANDERO_HATCH);
+
+        patioVeiculos.modelos(tipoVeiculo.toLowerCase());
 
         int opcaoModelos = scanner.nextInt();
+        var veiculo = patioVeiculos.getVehicle(tipoVeiculo.toLowerCase(), opcaoModelos);
 
-
-        var veiculo = patioVeiculos.getVehicle(tipoVeiculo.toLowerCase(),opcaoModelos);
 
         scanner.nextLine();
 

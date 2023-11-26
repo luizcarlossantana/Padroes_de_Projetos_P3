@@ -34,7 +34,7 @@ public class GerenciadorReservas {
         System.out.println("ID: " + reserva.getIdReserva());
         System.out.println("Nome do Cliente: " + reserva.getCliente());
         System.out.println("Veículo reservado: " + reserva.getVeiculo().getTipo());
-        System.out.println("Modelo do veícul: "+ reserva.getVeiculo().getModelo());
+        System.out.println("Modelo do veículo: "+ reserva.getVeiculo().getModelo());
         System.out.println("Data da retirada do veículo: " + reserva.getDataInicio());
         System.out.println("Data da devolução do veículo: " + reserva.getDataFim());
         System.out.println("Valor da reserva: R$ " + reserva.getPreco());
