@@ -1,13 +1,13 @@
 package com.PadroesDeProjetos.api;
 
-import java.util.List;
+
 
 public class PatioVeiculos {
 
 
 
-    public Veiculo getVehicle(String type,int modelo) {
-        if (type.equals("carro")) {
+    public Veiculo getVehicle(String tipo,int modelo) {
+        if (tipo.equals("carro")) {
 
 
 
@@ -18,11 +18,11 @@ public class PatioVeiculos {
 
             return carro;
 
-        } else if (type.equals("van")) {
+        } else if (tipo.equals("van")) {
             return new Van();
-        } else if (type.equals("moto")) {
+        } else if (tipo.equals("moto")) {
             return new Moto();
-        } else if (type.equals("caminhonete")) {
+        } else if (tipo.equals("caminhonete")) {
             return new Caminhonete();
         } else {
             throw new IllegalArgumentException("Tipo de veículo não disponível.");
@@ -54,9 +54,9 @@ public class PatioVeiculos {
         }
     }
 
-    public void modelos(String type){
+    public void modelos(String tipo){
 
-        if (type.equals("carro")) {
+        if (tipo.equals("carro")) {
 
 
             System.out.println("\nQual modelo você deseja ? ");
@@ -69,11 +69,11 @@ public class PatioVeiculos {
             System.out.println("6. " + ModelosDeCarro.SANDERO_HATCH);
 
 
-        } else if (type.equals("van")) {
+        } else if (tipo.equals("van")) {
 
-        } else if (type.equals("moto")) {
+        } else if (tipo.equals("moto")) {
 
-        } else if (type.equals("caminhonete")) {
+        } else if (tipo.equals("caminhonete")) {
 
         } else {
             throw new IllegalArgumentException("Tipo de veículo não disponível.");

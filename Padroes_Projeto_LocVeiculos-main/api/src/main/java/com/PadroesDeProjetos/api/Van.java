@@ -2,7 +2,7 @@ package com.PadroesDeProjetos.api;
 
 public class Van implements Veiculo{
     @Override
-    public ModelosDeCarro getModelo() {
+    public String getModelo() {
         return null;
     }
 

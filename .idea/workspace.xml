@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d47ca13d-76fa-44f1-bcca-e3af02e73766" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Caminhonete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/GerenciadorReservas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Moto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/PatioVeiculos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Reserva.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Van.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Padroes_Projeto_LocVeiculos-main/production/Padroes_de_Projetos_P3/com/PadroesDeProjetos/api/Veiculo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2YgMBRi0ham7XPIJpr3e5Ao0VYq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/luizc/Documents/UNIESP/P3/Padroes_de_Projetos_P3/Padroes_Projeto_LocVeiculos-main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\luizc\Documents\UNIESP\P3\Padroes_de_Projetos_P3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d47ca13d-76fa-44f1-bcca-e3af02e73766" name="Changes" comment="" />
+      <created>1700942633715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700942633715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

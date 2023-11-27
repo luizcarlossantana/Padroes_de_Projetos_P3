@@ -18,8 +18,8 @@ public class Carro implements Veiculo{
     }
 
     @Override
-    public ModelosDeCarro getModelo() {
-        return this.modelo;
+    public String getModelo() {
+        return this.modelo.name();
     }
 
     @Override
