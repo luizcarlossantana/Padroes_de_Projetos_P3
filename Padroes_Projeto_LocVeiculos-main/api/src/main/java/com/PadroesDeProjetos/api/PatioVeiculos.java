@@ -6,7 +6,7 @@ public class PatioVeiculos {
 
 
 
-    public Veiculo getVehicle(String tipo,int modelo) {
+    public Veiculo buscarVeiculo(String tipo,int modelo) {
         if (tipo.equals("carro")) {
 
 

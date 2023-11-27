@@ -60,7 +60,7 @@ public class Main {
         patioVeiculos.modelos(tipoVeiculo.toLowerCase());
 
         int opcaoModelos = scanner.nextInt();
-        var veiculo = patioVeiculos.getVehicle(tipoVeiculo.toLowerCase(), opcaoModelos);
+        var veiculo = patioVeiculos.buscarVeiculo(tipoVeiculo.toLowerCase(), opcaoModelos);
 
 
         scanner.nextLine();
